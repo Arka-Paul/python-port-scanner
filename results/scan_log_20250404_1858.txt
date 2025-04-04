@@ -1,0 +1,4 @@
+Scan results for scanme.nmap.org on 2025-04-04 18:58:57.137471
+--------------------------------------------------
+Port 22 open | Banner: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+Port 80 open | Banner: N/A

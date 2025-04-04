@@ -1,0 +1,14 @@
+{
+    "target": "scanme.nmap.org",
+    "timestamp": "2025-04-04T18:58:57.137702",
+    "open_ports": [
+        {
+            "port": 22,
+            "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+        },
+        {
+            "port": 80,
+            "banner": "N/A"
+        }
+    ]
+}
