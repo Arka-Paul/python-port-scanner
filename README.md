@@ -31,7 +31,7 @@ cd python-port-scanner
 pip install -r requirements.txt
 ```
 
-> ✅ Requires **Python 3.7+**
+> Requires **Python 3.7+**
 
 ---
 
