@@ -46,6 +46,7 @@ python3 Port_Scanner.py --target <ip/domain> --ports <start-end> [--json]
 ```bash
 python3 Port_Scanner.py --target scanme.nmap.org --ports 20-80
 python3 Port_Scanner.py --target scanme.nmap.org --ports 1-100 --json
+python3 Port_Scanner.py --target scanme.nmap.org --ports 1-100 --json --shodan --output FILE_NAME_YOU_WANT_TO_SAVE_AS
 ```
 
 ---
